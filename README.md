@@ -26,7 +26,7 @@ Are going extinct **every day**. The global rate of species extinction is alread
 
 ## About Me
 
-I am currently employed as a frontend developer for the online journalism platform [The Correspondent](https://thecorrespondent.com/). I a
+I am currently employed as a frontend developer for the online journalism platform [The Correspondent](https://thecorrespondent.com/). Feel free to drop me a direct message on Twitter, my dms are open. 
 
-[Medium](https://medium.com/@flut1) | [Twitter](https://twitter.com/flut1)
+[Medium](https://medium.com/@flut1) | [Twitter](https://twitter.com/flut1) | [LinkedIn](https://www.linkedin.com/in/florisbernard/)
 
