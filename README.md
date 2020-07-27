@@ -1,6 +1,6 @@
 # ⚠️ URGENT WARNING
 
-<img align="left" src="https://raw.githubusercontent.com/flut1/flut1/master/img/nl_zandloper.png" width="220"> Life on Earth is in crisis. Our climate is changing faster than scientists predicted and the stakes are high. Biodiversity loss. Crop failure. Social and ecological collapse. Mass extinction. We are running out of time, and our governments have failed to act. 
+<img align="left" src="https://raw.githubusercontent.com/flut1/flut1/master/img/nl_zandloper.png" width="200"> Life on Earth is in crisis. Our climate is changing faster than scientists predicted and the stakes are high. Biodiversity loss. Crop failure. Social and ecological collapse. Mass extinction. We are running out of time, and our governments have failed to act. 
 
 ### The number of floods worldwide
 have increased **15 times** since 1950. In that same period, **wildfires increased sevenfold** and **extreme temperature events increased 20 times** <sup>1</sup>
