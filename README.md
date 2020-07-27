@@ -1,6 +1,6 @@
 # ⚠️ URGENT WARNING
 
-<img align="left" src="./img/nl_zandloper.png" width="220"> Life on Earth is in crisis. Our climate is changing faster than scientists predicted and the stakes are high. Biodiversity loss. Crop failure. Social and ecological collapse. Mass extinction. We are running out of time, and our governments have failed to act. 
+<img align="left" src="https://raw.githubusercontent.com/flut1/flut1/master/img/nl_zandloper.png" width="220"> Life on Earth is in crisis. Our climate is changing faster than scientists predicted and the stakes are high. Biodiversity loss. Crop failure. Social and ecological collapse. Mass extinction. We are running out of time, and our governments have failed to act. 
 
 ### The number of floods worldwide
 have increased **15 times** since 1950. In that same period, **wildfires increased sevenfold** and **extreme temperature events increased 20 times** <sup>1</sup>
@@ -13,7 +13,7 @@ Are going extinct **every day**. The global rate of species extinction is alread
 
 ---
 
-<img align="right" src="./img/extinction_symbol_720.png" width="130">
+<img align="right" src="https://raw.githubusercontent.com/flut1/flut1/master/img/extinction_symbol_720.png" width="130">
 
 ### For more info
 
@@ -29,5 +29,4 @@ Are going extinct **every day**. The global rate of species extinction is alread
 I am currently employed as a frontend developer for the online journalism platform [The Correspondent](https://thecorrespondent.com/). I a
 
 [Medium](https://medium.com/@flut1) | [Twitter](https://twitter.com/flut1)
-
 
